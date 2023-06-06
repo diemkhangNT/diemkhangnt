@@ -3,13 +3,16 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Khang.<br>
-        I'm from Vietnam.<br>
-        I am a final-year student majoring in Software Technology from the IT Department at HUFLIT. I'm dynamic, willing to learn, dedicated, responsible, and teamwork. I'm now looking for the opportunity to observe and practice more in software development.<br>
+        My name is Khang.<br>
+        I'm from HCMC, Vietnam.<br>
+        Currently, I'm a final-year student majoring in Software Technology from the IT Department at HUFLIT. I'm dynamic, willing to learn, dedicated, responsible, and teamwork. I'm now looking for the opportunity to observe and practice more in software development.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/diemkhangnt-47a0a9234">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+</p>
+<p align="right">
+    Cre: wervlad (Vladimir Rusakovc)
 </p>
 <!--
 **diemkhangNT/diemkhangnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
